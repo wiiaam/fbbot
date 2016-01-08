@@ -1,0 +1,9 @@
+{
+  "name": "fbbot",
+  "version": "0.0.1",
+  "main":"fbbot.js",
+  "dependencies":{
+    "facebook-chat-api":"~1.0.4",
+    "cleverbot-node":"~0.2.1"
+  }
+}
