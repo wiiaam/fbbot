@@ -4,6 +4,8 @@
   "main":"fbbot.js",
   "dependencies":{
     "facebook-chat-api":"~1.0.4",
-    "cleverbot-node":"~0.2.1"
+    "cleverbot-node":"~0.2.1",
+    "fs":"~0.0.2",
+    "xml2js":"~0.4.15"
   }
 }
